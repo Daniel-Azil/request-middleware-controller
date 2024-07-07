@@ -1,0 +1,4 @@
+cachecontrol
+httpcache
+url
+git+https://github.com/jmcarp/reppy.git@detect-content-encoding
